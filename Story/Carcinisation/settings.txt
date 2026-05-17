@@ -11,7 +11,7 @@
     "corkStyle": "new",
     "countSpaces": true,
     "defaultTextType": "md",
-    "dict": "PyEnchant:pl_PL",
+    "dict": "PyEnchant:en_US",
     "dontShowDeleteWarning": false,
     "folderView": "cork",
     "frequencyAnalyzer": {
